@@ -9,7 +9,7 @@ body{
 	height:752px;
 	position:absolute;
 	top:40px;
-	right:55px;
+	right:20px;
 	border-top:solid 80px;
 	border-color:white;
 
@@ -53,7 +53,7 @@ body{
 	border-bottom:solid;
 	border-bottom-color:#008000;
 	margin-top:30px;
-	margin-left:40px;
+	margin-left:46px;
 	width: 1095px;
 
 }
@@ -127,7 +127,8 @@ input[type=submit] {
 h3{
 	color:#4aaaa5;
 	font-size: 30px;
-	margin-left: 35px;
+	margin-left: 40px;
+
 }
 
 

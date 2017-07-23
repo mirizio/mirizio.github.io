@@ -25,7 +25,7 @@ h3{
 #content{
 	background-color:white;
 	width:577px;
-	height:660px;
+	height:530px;
 	position:absolute;
 	top:60px;
 	left:80px;
@@ -134,20 +134,76 @@ img{
 
 	margin-left: 20px;
 	float:left;
+	margin-bottom: 20px;
+	
 }
 
-h1{
+
+
+#cruller{
 	background-color:#4aaaa5;
 	color:white;
 	width:255px;
-	height:35px;
+	height:25px;
 	margin-left:20px;
 	text-align:center;
-	padding-top:20px;
+	padding-top:5px;
 	font-weight:lighter;
 	letter-spacing:1px;
 	position:absolute;
-	top:200px;
+	top:240px;
+	font-size:20px;
+	
+
+
+}
+
+#maple{
+	background-color:#4aaaa5;
+	color:white;
+	width:255px;
+	height:25px;
+	margin-left:295px;
+	text-align:center;
+	padding-top:5px;
+	font-weight:lighter;
+	letter-spacing:1px;
+	position:absolute;
+	top:240px;
+	font-size:20px;
+
+}
+
+#chocolate{
+	background-color:#4aaaa5;
+	color:white;
+	width:255px;
+	height:25px;
+	margin-left:20px;
+	text-align:center;
+	padding-top:5px;
+	font-weight:lighter;
+	letter-spacing:1px;
+	position:absolute;
+	top:450px;
+	font-size:20px;
+
+
+}
+
+#sugar{
+	background-color:#4aaaa5;
+	color:white;
+	width:255px;
+	height:25px;
+	margin-left:295px;
+	text-align:center;
+	padding-top:5px;
+	font-weight:lighter;
+	letter-spacing:1px;
+	position:absolute;
+	top:450px;
+	font-size:20px;
 
 }
 
